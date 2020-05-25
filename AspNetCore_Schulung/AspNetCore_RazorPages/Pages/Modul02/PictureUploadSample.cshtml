@@ -1,0 +1,14 @@
+﻿@page
+@model AspNetCore_RazorPages.Pages.Modul02.PictureUploadSampleModel
+@{
+    ViewData["Title"] = "PictureUploadSample";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>PictureUploadSample</h1>
+
+<form enctype="multipart/form-data" method="post">
+    <input type="file" name="datei" dirname="C:\" />
+    <input type="submit" />
+</form>
+

@@ -9,7 +9,6 @@ C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\bin
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\bin\Debug\netcoreapp3.1\AspNetCore_RazorPages.pdb
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\bin\Debug\netcoreapp3.1\AspNetCore_RazorPages.Views.dll
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\bin\Debug\netcoreapp3.1\AspNetCore_RazorPages.Views.pdb
-C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\obj\Debug\netcoreapp3.1\AspNetCore_RazorPages.csprojAssemblyReference.cache
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\obj\Debug\netcoreapp3.1\AspNetCore_RazorPages.RazorAssemblyInfo.cache
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\obj\Debug\netcoreapp3.1\AspNetCore_RazorPages.RazorAssemblyInfo.cs
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\obj\Debug\netcoreapp3.1\AspNetCore_RazorPages.AssemblyInfoInputs.cache
@@ -106,6 +105,12 @@ C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\bin
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\Modul01\Calc1.cshtml.g.cs
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\Modul01\Calc2.cshtml.g.cs
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\Modul01\RazorReferencePage.cshtml.g.cs
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\Modul02\PictureUploadSample.cshtml.g.cs
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\obj\Debug\netcoreapp3.1\AspNetCore_RazorPages.csprojAssemblyReference.cache
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\Modul02\GallerySample1.cshtml.g.cs
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\Modul02\GallerySample2.cshtml.g.cs
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\obj\Debug\netcoreapp3.1\AspNetCore_RazorPages.csproj.CoreCompileInputs.cache
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\obj\Debug\netcoreapp3.1\AspNetCore_RazorPages.MvcApplicationPartsAssemblyInfo.cache
-C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_RazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\Modul01\Calc1.cshtml.g.cs

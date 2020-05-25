@@ -1,0 +1,20 @@
+﻿@page
+@model AspNetCore_RazorPages.Pages.Modul02.GallerySample2Model
+@{
+    ViewData["Title"] = "GallerySample2";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>GallerySample2</h1>
+
+<div class="row">
+    @foreach (var item in Model.Bilder)
+    {
+        <div class="col-12 col-md-4">
+            <a href="~/images/@System.IO.Path.GetFileName(item)">
+                <img class="img-fluid" src="/imagegen?img=/@System.IO.Path.GetFileName(item)" />
+            </a>
+        </div>
+
+    }
+</div>
