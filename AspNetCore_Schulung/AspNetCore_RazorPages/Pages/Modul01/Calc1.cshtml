@@ -1,0 +1,17 @@
+﻿@page "/calc/{handler?}"
+@model AspNetCore_RazorPages.Pages.Modul01.Calc1Model
+@{
+    ViewData["Title"] = "Calculator Version 1";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Calc1</h1>
+
+
+<form method="post">
+    <input name="eins" /> <br />
+    <input name="zwei" /> <br />
+    <button type="submit">Add</button>
+    @Model.Ergebnis
+    
+</form>
