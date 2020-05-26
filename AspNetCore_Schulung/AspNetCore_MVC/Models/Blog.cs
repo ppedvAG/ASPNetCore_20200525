@@ -14,7 +14,7 @@ namespace AspNetCore_MVC.Models
         [Required(AllowEmptyStrings = false, ErrorMessage = "Das Feld Titel benötigt eine Eingabe")]
         public string Title { get; set; }
 
-
+        //[StringLength(20, ErrorMessageResourceName = "StringLength", ErrorMessageResourceType = typeof(ValidationResources))]
         [MaxLength(20, ErrorMessage = "Content darf maximal 20 Zeichen lang sein")]
         public string Content { get; set; }
 

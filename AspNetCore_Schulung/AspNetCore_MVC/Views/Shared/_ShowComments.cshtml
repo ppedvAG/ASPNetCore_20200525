@@ -1,0 +1,12 @@
+﻿@model AspNetCore_MVC.ViewModels.BlogCommentViewModel
+
+<h1>Partial View - Zeige alle Kommentare</h1>
+
+<ul>
+    @foreach (var item in Model.Comments)
+    {
+        <li>
+            Titel: @item.Text;
+        </li>
+    }
+</ul>

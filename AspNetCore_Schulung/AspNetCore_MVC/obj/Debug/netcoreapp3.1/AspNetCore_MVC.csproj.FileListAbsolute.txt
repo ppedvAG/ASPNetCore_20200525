@@ -32,7 +32,6 @@ C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\netcoreapp3.1\AspNetCore_MVC.pdb
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\netcoreapp3.1\AspNetCore_MVC.genruntimeconfig.cache
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\netcoreapp3.1\AspNetCore_MVC.csproj.CopyComplete
-C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\netcoreapp3.1\AspNetCore_MVC.csprojAssemblyReference.cache
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
@@ -167,3 +166,10 @@ C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\netcoreapp3.1\AspNetCore_MVC.csprojAssemblyReference.cache
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\netcoreapp3.1\Razor\Views\PartialView\PartialViewBasicSample.cshtml.g.cs
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Zeit.cshtml.g.cs
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\netcoreapp3.1\Razor\Views\PartialView\ShowPartialViewWithViewModel.cshtml.g.cs
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ShowComments.cshtml.g.cs
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Address.cshtml.g.cs
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\netcoreapp3.1\Razor\Views\PartialView\LoadPartialOverGetMethod.cshtml.g.cs
