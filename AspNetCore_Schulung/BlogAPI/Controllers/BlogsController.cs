@@ -22,6 +22,12 @@ namespace BlogAPI.Controllers
         }
 
         // GET: api/Blogs
+
+
+        /// <summary>
+        /// GetBlog() Funktioniert ist Vital und hat kein Corona
+        /// </summary>
+        /// <returns>Hier wird eine Liste von Blogs zurück gegeben</returns>
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Blog>>> GetBlog()
         {

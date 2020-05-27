@@ -46,8 +46,6 @@ C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\bin\Debug\netcore
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\bin\Debug\netcoreapp3.1\BlogAPI.runtimeconfig.dev.json
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\bin\Debug\netcoreapp3.1\BlogAPI.dll
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\bin\Debug\netcoreapp3.1\BlogAPI.pdb
-C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\obj\Debug\netcoreapp3.1\BlogAPI.csproj.CoreCompileInputs.cache
-C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\obj\Debug\netcoreapp3.1\BlogAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\obj\Debug\netcoreapp3.1\BlogAPI.dll
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\obj\Debug\netcoreapp3.1\BlogAPI.pdb
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\obj\Debug\netcoreapp3.1\BlogAPI.genruntimeconfig.cache
@@ -148,3 +146,12 @@ C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\bin\Debug\netcore
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\bin\Debug\netcoreapp3.1\BlogAPI.xml
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\obj\Debug\netcoreapp3.1\BlogAPI.csproj.CoreCompileInputs.cache
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\obj\Debug\netcoreapp3.1\BlogAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\obj\Debug\netcoreapp3.1\BlogAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\BlogAPI\obj\Debug\netcoreapp3.1\BlogAPI.xml

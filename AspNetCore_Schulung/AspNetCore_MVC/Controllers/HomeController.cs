@@ -7,27 +7,32 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using AspNetCore_MVC.Models;
 using Microsoft.AspNetCore.Http;
+using DependencyInjections.GuteBeispiel;
+using Serilog;
 
 namespace AspNetCore_MVC.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly ICarService _carService;
+        public HomeController(ICarService carService)
         {
-            _logger = logger;
+
+            _carService = carService;
         }
 
         public IActionResult Index()
         {
+            Log.Information("HomeController.Index wurde aufgerufen");
+            _carService.BuyCar(new Car { Brand = "Fiat", Color = "Blau" });
             return View();
         }
 
         public IActionResult Privacy()
         {
-            string name = HttpContext.Session.GetString("Name");
-            int age = HttpContext.Session.GetInt32("Age").Value;
+            
+            //string name = HttpContext.Session.GetString("Name");
+            //int age = HttpContext.Session.GetInt32("Age").Value;
             return View();
         }
 

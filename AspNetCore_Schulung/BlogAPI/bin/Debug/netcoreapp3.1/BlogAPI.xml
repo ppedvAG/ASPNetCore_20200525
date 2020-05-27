@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BlogAPI</name>
+    </assembly>
+    <members>
+        <member name="M:BlogAPI.Controllers.BlogsController.GetBlog">
+            <summary>
+            GetBlog() Funktioniert ist Vital und hat kein Corona
+            </summary>
+            <returns>Hier wird eine Liste von Blogs zurück gegeben</returns>
+        </member>
+    </members>
+</doc>

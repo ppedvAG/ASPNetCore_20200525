@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AspNetCore_MVC.Data;
+using DependencyInjections.GuteBeispiel;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -29,6 +30,16 @@ namespace AspNetCore_MVC
                 .AddDataAnnotationsLocalization();
 
             services.AddSession();
+
+            //services.AddTransient<IOperationTransient, Operation>();
+            
+
+            services.AddSingleton<ICarService, CarService>();
+
+            //services.AddSingleton(.....);
+            //services.AddTransient(.....);
+            //services.AddScoped();
+
             //services.AddDbContext<BlogDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("BlogDbContext")));
         }
 

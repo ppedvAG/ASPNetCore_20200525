@@ -1,5 +1,21 @@
-
+KWinter@ppedv.de
 
 Multi Language: 
 - https://docs.microsoft.com/de-de/aspnet/core/fundamentals/localization?view=aspnetcore-3.1
 
+
+
+WebAPI rweiterte Themen
+https://code-maze.com/hateoas-aspnet-core-web-api/
+
+https://github.com/CodeMazeBlog/advanced-rest-concepts-aspnetcore/tree/paging-end
+
+https://code-maze.com/data-shaping-aspnet-core-webapi/
+
+https://code-maze.com/paging-aspnet-core-webapi/
+
+Jakob.Obkircher@Schule.suedtirol.it
+
+
+Swagger-Tutorial:
+https://docs.microsoft.com/de-de/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-3.1&tabs=visual-studio
