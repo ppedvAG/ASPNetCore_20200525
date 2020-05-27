@@ -192,3 +192,4 @@ C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\bin\Debug\
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\netcoreapp3.1\AspNetCore_MVC.csproj.CoreCompileInputs.cache
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\obj\Debug\netcoreapp3.1\AspNetCore_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\AspNetCore_MVC\bin\Debug\netcoreapp3.1\libman.json

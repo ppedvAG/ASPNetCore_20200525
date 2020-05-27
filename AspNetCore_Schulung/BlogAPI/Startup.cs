@@ -32,6 +32,8 @@ namespace BlogAPI
         {
             services.AddControllers();
 
+            services.AddSignalR();
+
             // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddSwaggerGen(c =>
             {
@@ -53,8 +55,6 @@ namespace BlogAPI
                         Url = new Uri("https://example.com/license"),
                     }
                 });
-
-
 
                 c.SwaggerDoc("v2", new OpenApiInfo
                 {
@@ -96,7 +96,7 @@ namespace BlogAPI
 
             app.UseHttpsRedirection();
 
-
+            
 
             // Enable middleware to serve generated Swagger as a JSON endpoint.
             app.UseSwagger();
@@ -108,12 +108,11 @@ namespace BlogAPI
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
             });
 
-            
-
 
             app.UseRouting();
 
             app.UseAuthorization();
+
 
             app.UseEndpoints(endpoints =>
             {
