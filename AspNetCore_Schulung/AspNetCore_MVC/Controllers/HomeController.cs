@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using AspNetCore_MVC.Models;
+using Microsoft.AspNetCore.Http;
 
 namespace AspNetCore_MVC.Controllers
 {
@@ -25,6 +26,8 @@ namespace AspNetCore_MVC.Controllers
 
         public IActionResult Privacy()
         {
+            string name = HttpContext.Session.GetString("Name");
+            int age = HttpContext.Session.GetInt32("Age").Value;
             return View();
         }
 

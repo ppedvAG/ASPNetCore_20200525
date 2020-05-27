@@ -1,0 +1,5 @@
+
+
+Multi Language: 
+- https://docs.microsoft.com/de-de/aspnet/core/fundamentals/localization?view=aspnetcore-3.1
+

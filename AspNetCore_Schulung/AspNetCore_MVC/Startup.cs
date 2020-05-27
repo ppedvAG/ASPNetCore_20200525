@@ -28,7 +28,8 @@ namespace AspNetCore_MVC
             services.AddControllersWithViews()
                 .AddDataAnnotationsLocalization();
 
-            services.AddDbContext<BlogDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("BlogDbContext")));
+            services.AddSession();
+            //services.AddDbContext<BlogDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("BlogDbContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,11 +47,12 @@ namespace AspNetCore_MVC
             }
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            app.UseSession();
 
             app.UseRouting();
 
             app.UseAuthorization();
-
+            
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
