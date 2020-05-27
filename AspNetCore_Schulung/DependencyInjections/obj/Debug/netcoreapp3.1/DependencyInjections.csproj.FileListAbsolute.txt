@@ -1,7 +1,6 @@
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\DependencyInjections\bin\Debug\netcoreapp3.1\DependencyInjections.deps.json
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\DependencyInjections\bin\Debug\netcoreapp3.1\DependencyInjections.dll
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\DependencyInjections\bin\Debug\netcoreapp3.1\DependencyInjections.pdb
-C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\DependencyInjections\obj\Debug\netcoreapp3.1\DependencyInjections.csprojAssemblyReference.cache
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\DependencyInjections\obj\Debug\netcoreapp3.1\DependencyInjections.AssemblyInfoInputs.cache
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\DependencyInjections\obj\Debug\netcoreapp3.1\DependencyInjections.AssemblyInfo.cs
 C:\Meine Kurse\ASPNetCore_20200525\AspNetCore_Schulung\DependencyInjections\obj\Debug\netcoreapp3.1\DependencyInjections.csproj.CoreCompileInputs.cache

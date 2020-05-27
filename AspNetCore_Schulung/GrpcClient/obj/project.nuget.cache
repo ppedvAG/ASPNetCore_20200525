@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "bfHYLLZ58j34fcuhMLCrXnbnQIFBqvdU+JQ5OtEpk0y2Ar01OTLzNfHdlaiey679EuAmke/EdeIf2XdgbFtSew==",
+  "success": true,
+  "projectFilePath": "C:\\Meine Kurse\\ASPNetCore_20200525\\AspNetCore_Schulung\\GrpcClient\\GrpcClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KW4\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
+    "C:\\Users\\KW4\\.nuget\\packages\\grpc.core.api\\2.27.0\\grpc.core.api.2.27.0.nupkg.sha512",
+    "C:\\Users\\KW4\\.nuget\\packages\\grpc.net.client\\2.27.0\\grpc.net.client.2.27.0.nupkg.sha512",
+    "C:\\Users\\KW4\\.nuget\\packages\\grpc.net.common\\2.27.0\\grpc.net.common.2.27.0.nupkg.sha512",
+    "C:\\Users\\KW4\\.nuget\\packages\\grpc.tools\\2.27.0\\grpc.tools.2.27.0.nupkg.sha512",
+    "C:\\Users\\KW4\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\KW4\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\KW4\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

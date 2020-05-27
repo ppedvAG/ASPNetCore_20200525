@@ -1,0 +1,29 @@
+syntax = "proto3";
+import "google/protobuf/empty.proto";
+option csharp_namespace = "GrpcServer.Protos";
+
+service Customer {
+	rpc GetCustomerInfo (CustomerLookupModel) returns (CustomerModel);
+	rpc GetNewCustomers (google.protobuf.Empty) returns(stream CustomerModel);
+}
+
+message NewCustomerRequest {
+
+}
+
+message CustomerLookupModel {
+	int32 userId = 1;
+}
+
+message CustomerModel {
+	string firstname = 1;
+	string lastName = 2;
+	string emailAddress=3;
+	bool isAlive = 4;
+	int32 age = 5;
+}
+
+message WrapperModel
+{
+	string jsonMessage = 1;
+}

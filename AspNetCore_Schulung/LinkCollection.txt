@@ -19,3 +19,34 @@ Jakob.Obkircher@Schule.suedtirol.it
 
 Swagger-Tutorial:
 https://docs.microsoft.com/de-de/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-3.1&tabs=visual-studio
+
+
+
+PPEDV Blog:
+blog.ppedv.de
+
+
+Channel 9 Microsoft-> Videos über Microsoft Technologien (kostenlos)
+MyBuild -< Entwickler Conference von Micrsoft (C#9 / WinUI 3)
+
+gitbhub -> AspNetCore.Docs -> Alle Beispielanwendungen enthalten
+https://github.com/dotnet/AspNetCore.Docs
+
+
+
+
+Authoren-Blog;
+
+Julia Lernman -> Microsoft Autorin
+Dino Esposito -> ""
+
+
+Blogs
+https://devblogs.microsoft.com/aspnet/
+https://devblogs.microsoft.com/dotnet/
+https://docs.microsoft.com/de-de/aspnet/core/whats-new/2020-04?view=aspnetcore-3.1
+
+https://github.com/ppedvAG/ASPNETCore-ppedv-/tree/master/AspNetCore_Berlin_30032020
+
+
+

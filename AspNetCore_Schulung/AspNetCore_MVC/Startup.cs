@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AspNetCore_MVC.Data;
+using AspNetCore_MVC.Hubs;
 using DependencyInjections.GuteBeispiel;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -35,6 +36,7 @@ namespace AspNetCore_MVC
             
 
             services.AddSingleton<ICarService, CarService>();
+            services.AddSignalR();
 
             //services.AddSingleton(.....);
             //services.AddTransient(.....);
@@ -66,9 +68,12 @@ namespace AspNetCore_MVC
             
             app.UseEndpoints(endpoints =>
             {
+
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+                endpoints.MapHub<ChatHub>("/chatHub");
             });
         }
     }
